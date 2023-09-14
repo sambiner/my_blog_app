@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>827196888901-1o70r71usr4h6ki2ns6olf8l3382lece.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.827196888901-1o70r71usr4h6ki2ns6olf8l3382lece</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD2Ugu94ZqWDM9dfXwxQjB-5Z_BpnSzZtM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>827196888901</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.lmu.slightmeat</string>
+	<key>PROJECT_ID</key>
+	<string>slightly-meaty-bones-blog</string>
+	<key>STORAGE_BUCKET</key>
+	<string>slightly-meaty-bones-blog.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:827196888901:ios:c08ba5930caeef2556102c</string>
+</dict>
+</plist>
